@@ -1,0 +1,1 @@
+﻿MainApplication.ProgramDialog.Main();
